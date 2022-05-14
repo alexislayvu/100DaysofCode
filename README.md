@@ -1,5 +1,5 @@
-# 100DaysofCode
+# 100 Days of Code
 
-Collection of 100 Days of Code projects.
+A collection of 100 Days of Code projects done in Python.
 
-Work in progress..
+Work in progress...
