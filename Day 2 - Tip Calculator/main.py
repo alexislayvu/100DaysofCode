@@ -8,7 +8,7 @@ total_bill = input("What was the total bill? ")
 percentage = input("What percentage tip would you like to give? ")
 total_people = input("How many people to split the bill? ")
 
-# Typecast the data types from str --> int
+# Typecast the data types from str --> float
 new_total_bill = float(total_bill)
 new_total_people = float(total_people)
 new_percentage = float(percentage)
