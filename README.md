@@ -2,4 +2,4 @@
 
 A collection of 100 Days of Code projects done in Python.
 
-Work in progress...
+A work in progress!
