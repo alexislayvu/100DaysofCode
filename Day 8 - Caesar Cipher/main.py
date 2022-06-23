@@ -20,14 +20,23 @@ def encrypt(message, num_shift):
 
         encoded_text += new_letter
 
-    print(f"The encoded text is {encoded_text}")  # turn the list back into string and print
+    print(f"The encoded text is {encoded_text}")
 
 
 def decrypt(message, num_shift):
-    pass
+    decoded_text = ""
+
+    for letter in message:
+        position = alphabet.index(letter)
+        new_position = position - num_shift
+        new_letter = alphabet[new_position]
+        decoded_text += new_letter
+
+    print(f"The decoded text is {decoded_text}")
 
 
 if direction.lower() == "encode":
     encrypt(message=text, num_shift=shift)
 if direction.lower() == "decode":
     decrypt(message=text, num_shift=shift)
+
