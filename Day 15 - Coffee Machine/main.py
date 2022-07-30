@@ -71,7 +71,7 @@ def transaction(money_received, drink_cost):
     """Returns True when the payment is accepted, False if money is insufficient."""
     global profit
     change = round(money_received - drink_cost, 2)
-    # money_received = total
+
     if money_received < drink_cost:
         print("Sorry that's not enough money. Money refunded.")
         return 0
