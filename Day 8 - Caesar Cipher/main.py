@@ -42,7 +42,7 @@ while should_continue:
 
     caesar(message=text, num_shift=shift, cipher_direction=direction)
 
-    cont = input("Type 'yes' if you want to go again. Otherwise, type 'no'\n.").lower()
+    cont = input("Type 'yes' if you want to go again. Otherwise, type 'no'\n").lower()
     if cont == "yes":
         should_continue = True
     if cont == "no":
