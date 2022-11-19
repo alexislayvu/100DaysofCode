@@ -1,4 +1,4 @@
-# OOP Coffee Machine
+# OOP Coffee Machine Simulator
 
 Same functionality as the Coffee Machine project made in Day 15. The only difference is that this project was designed using the object-oriented programming paradigm. 
 
