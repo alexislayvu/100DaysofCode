@@ -1,5 +1,3 @@
-# 100 Days of Code
+# Python Projects
 
-A collection of 100 Days of Code projects done in Python, check them out!
-
-A work in progress!
+A collection of some projects I completed to strenghten my knowledge in Python.
