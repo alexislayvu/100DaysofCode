@@ -1,4 +1,4 @@
-# The Quiz Project
+# Computer Science Trivia
 
 A fun 10 question trivia on Computer Science. Used the [Open Trivia DB API](https://opentdb.com/api_config.php) to generate the question data.
 
