@@ -1,4 +1,4 @@
-# Coffee Machine
+# Coffee Machine Simulator
 
 A Coffee Machine simulator!
 
