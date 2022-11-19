@@ -1,4 +1,4 @@
-# Higher Lower Game
+# Instagram Influencer Trivia
 
 Who has more followers on Instagram? One wrong guess and the game ends!
 
