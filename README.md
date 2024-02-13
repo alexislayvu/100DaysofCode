@@ -1,3 +1,3 @@
 # Python Projects
 
-A collection of some projects I completed to strenghten my knowledge in Python.
+A collection of silly, beginner-level projects I completed during the initial stages of learning Python.
